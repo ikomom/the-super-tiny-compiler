@@ -3,5 +3,8 @@
   "version": "1.0.0",
   "author": "James Kyle <me@thejameskyle.com> (thejameskyle.com)",
   "license": "CC-BY-4.0",
-  "main": "./the-super-tiny-compiler.js"
+  "main": "./the-super-tiny-compiler.js",
+  "scripts": {
+    "test": "node test.js"
+  }
 }
